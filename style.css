@@ -14,8 +14,8 @@ h1 {
 p {
   width: 90%;
   height: 150px;
-  margin: auto;
   clear:both;
+  padding: 10px;
 }
 
 .small {
@@ -23,6 +23,7 @@ p {
   background-color: #dddddd;
   padding-bottom: 10px;
   margin: 10px;
+  overflow: hidden;
 }
 
 .box {
